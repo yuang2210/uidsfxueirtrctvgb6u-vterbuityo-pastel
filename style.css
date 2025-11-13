@@ -10,6 +10,9 @@ body {
 
   margin: 0;
   font-family: "DejaVu Sans Condensed", sans-serif;
+  h1 { color: ##FFFFFF; }
+p { color: #FFFFFF; }
+
 
 }
 
